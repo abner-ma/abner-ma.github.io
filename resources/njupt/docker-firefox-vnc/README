@@ -1,0 +1,11 @@
+I build this just for fun.
+This is image will let me to use firefox by vnc the docker's server without install firefox locally.
+
+How to start?
+docker run -d -v $(pathtothe)/vnc:/.vnc -P <imagename>
+
+How to connet?
+vncviewer IP:port
+password is 123456
+ssh root@IP -p <port>
+password is 111111
