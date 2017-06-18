@@ -14,10 +14,10 @@
 ### 工作经历 
 #### ZTE ( 2016.9 ~ now)
 _作为开发做编码工作_,主要为**C**。
-<p>
+```
 `if ((time > 9) && (time < 21))
 	work;`
-</p>
+```
 #### 中国电信 （ 2015.7 ~ 2016.6 ）
 ![电信工作](resources/ct/chinatelecom.jpg  "work in chinatelecom ")
 ##### 数据可视化项目 
