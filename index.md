@@ -11,6 +11,13 @@
 
 ----
 
+### 证书
+- 服务器：[红帽认证工程师](cert/redhat/MY_RHCE.pdf)
+- 数据库：[OCP证书](cert/oracle/MY-P.pdf)
+- 编程语言：[JAVA SCP证书](cert/oracle/MY-SCJP.pdf)
+
+----
+
 ### 工作经历 
 #### ZTE ( 2016.9 ~ now)
 _作为开发做编码工作_,主要为**C**。
