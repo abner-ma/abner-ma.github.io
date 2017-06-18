@@ -8,10 +8,13 @@
 - 技术博客(blog)：http://mayuenjkxt.blog.51cto.com/
 - Github：[abner-ma](https://github.com/abner-ma "abner-ma")
 - Email：njuptgggzs@gmail.com 
-- 微信/WeChat：<img src="resources/WeChat/QRcode/my.jpg" width = "150" height = "150" alt="我的微信二维码" align=center>
 ----
 
 ### 工作经历 ###
+#### ZTE ( 2016.9 ~ now)
+_作为开发做编码工作_,主要为**C**。
+`if ((time > 9) && (time < 21))
+	work;`
 
 #### 中国电信 （ 2015.7 ~ 2016.6 ）
 ![电信工作](resources/ct/chinatelecom.jpg  "work in chinatelecom ")
@@ -37,52 +40,12 @@
 ### 技术文章 ###
 
 #### 发表的文章 ####
- - 硕士毕业论文：[Hadoop平台下的海量小文件处理研究](resources/njupt/1212043110_MY.pdf)
- - [基于Docker的应用软件虚拟化研究](resources/njupt/基于Docker的应用软件虚拟化研究.pdf)
- - [基于Docker的Hadoop平台架构研究](resources/njupt/基于Docker的Hadoop平台架构研究.pdf)
+1. 硕士毕业论文：[Hadoop平台下的海量小文件处理研究](resources/njupt/1212043110_MY.pdf)
+2. [基于Docker的应用软件虚拟化研究](resources/njupt/基于Docker的应用软件虚拟化研究.pdf)
+3. [基于Docker的Hadoop平台架构研究](resources/njupt/基于Docker的Hadoop平台架构研究.pdf)
 #### 演讲和讲义 ####
 
  - 公司内部分享：[Hadoop分布式文件系统](resources/ct/Hadoop分布式文件系统.pptx)
-
-### 技能清单  ###
-
-- 服务器相关：Linux/FreeBSD/Windows server [拥有红帽工程师认证](cert/redhat/MY_RHCE.pdf)
-- 数据库相关：MySQL/Oracle/SQLite [拥有OCP证书](cert/oracle/MY-P.pdf)
-- 编程语言：Python/C/C++/JAVA [拥有JAVA SCP证书](cert/oracle/MY-SCJP.pdf)
-- 版本管理：Git/CVS/SVN
-- 云和开放平台：Docker/ECS/GAE
-- Web开发：PHP/HTML5/js
-
 ---
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abner-ma/abner-ma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`Code` text
