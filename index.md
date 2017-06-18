@@ -13,9 +13,10 @@
 ### 工作经历 ###
 #### ZTE ( 2016.9 ~ now)
 _作为开发做编码工作_,主要为**C**。
+<p>
 `if ((time > 9) && (time < 21))
 	work;`
-
+<p>
 #### 中国电信 （ 2015.7 ~ 2016.6 ）
 ![电信工作](resources/ct/chinatelecom.jpg  "work in chinatelecom ")
 ##### 数据可视化项目 
@@ -43,9 +44,7 @@ _作为开发做编码工作_,主要为**C**。
 1. 硕士毕业论文：[Hadoop平台下的海量小文件处理研究](resources/njupt/1212043110_MY.pdf)
 2. [基于Docker的应用软件虚拟化研究](resources/njupt/基于Docker的应用软件虚拟化研究.pdf)
 3. [基于Docker的Hadoop平台架构研究](resources/njupt/基于Docker的Hadoop平台架构研究.pdf)
-#### 演讲和讲义 ####
 
+#### 演讲和讲义
  - 公司内部分享：[Hadoop分布式文件系统](resources/ct/Hadoop分布式文件系统.pptx)
 ---
-
-`Code` text
