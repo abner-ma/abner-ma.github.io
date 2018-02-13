@@ -14,13 +14,11 @@
 ### 工作经历 
 #### ZTE ( 2016.9 ~ now)
 _作为开发做编码工作_,主要为**C**，其它不便透露。
-
-![](http://yuml.me/diagram/scruffy/class/["云T"{bg:orange}]->[中研{bg:green}])
-
 ```
 `if ((time > 9) && (time < 21))
 	work;`
 ```
+![](http://yuml.me/diagram/scruffy/usecase/[Customer])
 #### 中国电信 （ 2015.7 ~ 2016.6 ）
 ![电信工作](resources/ct/chinatelecom.jpg  "work in chinatelecom ")
 ##### 数据可视化项目 
