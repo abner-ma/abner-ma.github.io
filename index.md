@@ -7,7 +7,7 @@
 - 南京邮电大学软件工程专业(Software engineering,Nanjing University of Posts and Telecommunications)
 - 技术博客(blog)：http://mayuenjkxt.blog.51cto.com/
 - Github[abner-ma](https://github.com/abner-ma "abner-ma")
-- Email：![](http://latex.codecogs.com/gif.latex?\\njuptgggzs@gmail.com)
+- Email：![](http://latex.codecogs.com/gif.latex?\\{njuptgggzs@gmail.com})
 
 ----
 
