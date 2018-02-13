@@ -6,21 +6,17 @@
 - 工学硕士(Master of Science)
 - 南京邮电大学软件工程专业(Software engineering,Nanjing University of Posts and Telecommunications)
 - 技术博客(blog)：http://mayuenjkxt.blog.51cto.com/
-- Github[abner-ma](https://github.com/abner-ma "abner-ma")
+- Github：[abner-ma](https://github.com/abner-ma "abner-ma")
 - Email：![](http://latex.codecogs.com/gif.latex?njuptgggzs@gmail.com)
-
-----
-
-### 证书
-- 服务器：[红帽认证工程师](cert/redhat/MY_RHCE.pdf)
-- 数据库：[OCP证书](cert/oracle/MY-P.pdf)
-- 编程语言：[JAVA SCP证书](cert/oracle/MY-SCJP.pdf)
 
 ----
 
 ### 工作经历 
 #### ZTE ( 2016.9 ~ now)
-_作为开发做编码工作_,主要为**C**。
+_作为开发做编码工作_,主要为**C**，其它不便透露。
+
+![](http://yuml.me/diagram/scruffy/class/["云T"{bg:orange}]->[中研{bg:green}])
+
 ```
 `if ((time > 9) && (time < 21))
 	work;`
@@ -40,7 +36,14 @@ _作为开发做编码工作_,主要为**C**。
 
 ---
 
-### 主要项目经历 
+### 证书
+- 服务器：[红帽认证工程师](cert/redhat/MY_RHCE.pdf)
+- 数据库：[OCP证书](cert/oracle/MY-P.pdf)
+- 编程语言：[JAVA SCP证书](cert/oracle/MY-SCJP.pdf)
+
+----
+
+### 主要项目经历(学校期间)
 - 虚拟化-云计算实验平台
 <p>研究生期间参与江苏电信与南京邮电大学共建的虚拟化-云计算实验平台项目，主要负责实验环境的服务器、存储、交换机、防火墙的配置，以及超云平台、云桌面、Hadoop等软件环境的搭建，并使用该平台环境完成了中科院声学所的语音标注项目、Hadoop平台下海量小文件的处理研究。</p>
 - 软件学院机房排课系统
